@@ -1,8 +1,11 @@
 [
   {
     "uuid": "febdbb10-b91d-3d00-9817-1ff489b34cde",
-    "name": "Neonic",
-    "level": 4,
-    "bypassesPlayerLimit": false
+    "name": "Toast_RYNO",
+    "level": 20,
+    "bypassesPlayerLimit":true
+
+
   }
-]
+] 
+

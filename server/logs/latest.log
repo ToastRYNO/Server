@@ -218,3 +218,28 @@
 [04:01:28] [Thread-10/INFO]: UUID of player Toast_RYNO is defcf349-6061-3bdf-8378-c8b213debf79
 [04:01:28] [Server thread/INFO]: Toast_RYNO[/[0:0:0:0:0:0:0:1]:52708] logged in with entity id 660 at ([world]212.34194390827054, 78.0, 216.69842275014176)
 [04:01:31] [Server thread/INFO]: Toast_RYNO issued server command: /op
+[04:03:27] [Server thread/INFO]: Toast_RYNO lost connection: Disconnected
+[04:03:27] [Server thread/INFO]: Toast_RYNO left the game.
+[04:03:30] [Thread-11/INFO]: UUID of player Toast_RYNO is defcf349-6061-3bdf-8378-c8b213debf79
+[04:03:30] [Server thread/INFO]: Toast_RYNO[/[0:0:0:0:0:0:0:1]:56594] logged in with entity id 814 at ([world]212.34194390827054, 78.0, 216.69842275014176)
+[04:03:39] [Server thread/INFO]: Toast_RYNO issued server command: /Op
+[04:09:26] [Server thread/INFO]: Toast_RYNO lost connection: Disconnected
+[04:09:26] [Server thread/INFO]: Toast_RYNO left the game.
+[04:09:27] [Thread-12/INFO]: UUID of player Toast_RYNO is defcf349-6061-3bdf-8378-c8b213debf79
+[04:09:27] [Server thread/INFO]: Toast_RYNO[/[0:0:0:0:0:0:0:1]:55126] logged in with entity id 1110 at ([world]213.8144929679294, 78.0, 216.8934670586953)
+[04:09:35] [Server thread/INFO]: Toast_RYNO issued server command: /timeset day
+[04:09:43] [Server thread/INFO]: Toast_RYNO issued server command: /time set day
+[04:12:11] [Server thread/INFO]: Toast_RYNO was slain by Zombie
+[04:12:59] [Server thread/INFO]: Toast_RYNO lost connection: Disconnected
+[04:12:59] [Server thread/INFO]: Toast_RYNO left the game.
+[04:13:19] [Thread-13/INFO]: UUID of player Toast_RYNO is defcf349-6061-3bdf-8378-c8b213debf79
+[04:13:19] [Server thread/INFO]: Toast_RYNO[/[0:0:0:0:0:0:0:1]:57466] logged in with entity id 1213 at ([world]224.5, 72.0, 220.5)
+[04:13:53] [Server thread/INFO]: Toast_RYNO was slain by Zombie
+[04:14:02] [Server thread/INFO]: Toast_RYNO issued server command: /gamemode 1
+[04:14:05] [Server thread/INFO]: Toast_RYNO lost connection: Disconnected
+[04:14:05] [Server thread/INFO]: Toast_RYNO left the game.
+[04:16:23] [Thread-14/INFO]: UUID of player Toast_RYNO is defcf349-6061-3bdf-8378-c8b213debf79
+[04:16:23] [Server thread/INFO]: Toast_RYNO[/[0:0:0:0:0:0:0:1]:44824] logged in with entity id 1249 at ([world]224.5, 72.0, 220.5)
+[04:16:59] [Server thread/INFO]: Toast_RYNO issued server command: /plugins
+[04:17:06] [Server thread/INFO]: Toast_RYNO issued server command: /plugins 4
+[04:17:15] [Server thread/INFO]: Toast_RYNO issued server command: /gamemode creative

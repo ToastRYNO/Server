@@ -85,3 +85,35 @@
 [04:01:28] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:44740]: Logged in as 'Toast_RYNO'
 [04:01:28] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:44740|Toast_RYNO] -> UpstreamBridge has connected
 [04:01:28] [Netty Worker IO Thread #2/INFO]: [Toast_RYNO|/[0:0:0:0:0:0:0:1%0]:44740] <-> ServerConnector [lobby] has connected
+[04:03:27] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:44740|Toast_RYNO] -> UpstreamBridge has disconnected
+[04:03:27] [Netty Worker IO Thread #2/INFO]: [Toast_RYNO] disconnected with: Proxy lost connection to server.
+[04:03:27] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:44740|Toast_RYNO] <-> DownstreamBridge <-> [lobby] has disconnected
+[04:03:30] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45796]: Connected via websocket
+[04:03:30] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45796]: Origin header is https://oncoursemail.github.io
+[04:03:30] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45796]: Logged in as 'Toast_RYNO'
+[04:03:30] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:45796|Toast_RYNO] -> UpstreamBridge has connected
+[04:03:30] [Netty Worker IO Thread #1/INFO]: [Toast_RYNO|/[0:0:0:0:0:0:0:1%0]:45796] <-> ServerConnector [lobby] has connected
+[04:09:25] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:45796|Toast_RYNO] -> UpstreamBridge has disconnected
+[04:09:25] [Netty Worker IO Thread #1/INFO]: [Toast_RYNO] disconnected with: Proxy lost connection to server.
+[04:09:25] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:45796|Toast_RYNO] <-> DownstreamBridge <-> [lobby] has disconnected
+[04:09:27] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:38390]: Connected via websocket
+[04:09:27] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:38390]: Origin header is https://oncoursemail.github.io
+[04:09:27] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:38390]: Logged in as 'Toast_RYNO'
+[04:09:27] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:38390|Toast_RYNO] -> UpstreamBridge has connected
+[04:09:27] [Netty Worker IO Thread #3/INFO]: [Toast_RYNO|/[0:0:0:0:0:0:0:1%0]:38390] <-> ServerConnector [lobby] has connected
+[04:12:59] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:38390|Toast_RYNO] -> UpstreamBridge has disconnected
+[04:12:59] [Netty Worker IO Thread #3/INFO]: [Toast_RYNO] disconnected with: Proxy lost connection to server.
+[04:12:59] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:38390|Toast_RYNO] <-> DownstreamBridge <-> [lobby] has disconnected
+[04:13:19] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48474]: Connected via websocket
+[04:13:19] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48474]: Origin header is http://localhost:8081
+[04:13:19] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:48474]: Logged in as 'Toast_RYNO'
+[04:13:19] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:48474|Toast_RYNO] -> UpstreamBridge has connected
+[04:13:19] [Netty Worker IO Thread #0/INFO]: [Toast_RYNO|/[0:0:0:0:0:0:0:1%0]:48474] <-> ServerConnector [lobby] has connected
+[04:14:05] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:48474|Toast_RYNO] -> UpstreamBridge has disconnected
+[04:14:05] [Netty Worker IO Thread #0/INFO]: [Toast_RYNO] disconnected with: Proxy lost connection to server.
+[04:14:05] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:48474|Toast_RYNO] <-> DownstreamBridge <-> [lobby] has disconnected
+[04:16:23] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58522]: Connected via websocket
+[04:16:23] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58522]: Origin header is http://localhost:8081
+[04:16:23] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58522]: Logged in as 'Toast_RYNO'
+[04:16:23] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:58522|Toast_RYNO] -> UpstreamBridge has connected
+[04:16:23] [Netty Worker IO Thread #2/INFO]: [Toast_RYNO|/[0:0:0:0:0:0:0:1%0]:58522] <-> ServerConnector [lobby] has connected
